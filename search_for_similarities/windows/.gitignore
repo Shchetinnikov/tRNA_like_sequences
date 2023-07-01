@@ -1,7 +1,5 @@
 .vs
 /build
 /data
-./Debug
-./SearchForSimilarities/Debug
 /out
 SearchForSimilarities.sln
